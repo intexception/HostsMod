@@ -1,3 +1,4 @@
+# forking this incase it gets deleted
 # HostsMod
 
 ### [VirusTotal](https://www.virustotal.com/gui/file/ab414d0ae73f20561c4f7cd81b143979a35176f859f52c5207872ee0ccb1659b/detection)  
